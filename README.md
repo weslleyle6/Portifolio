@@ -1,7 +1,4 @@
-<git remoto adicionar origem https://github.com/weslleyle6/Portifolio.git>
- git branch -M principal 
-git push -u origem principal>
-</git>
+
 <!DOCTYPE html>
 <html lang="EN-US">
 <head>
